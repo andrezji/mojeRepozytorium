@@ -1,0 +1,2 @@
+# mojeRepozytorium
+Pierwsze repozytorium Git
