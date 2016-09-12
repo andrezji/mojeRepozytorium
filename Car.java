@@ -5,7 +5,7 @@ public class Car {
 	private int year;
 	private String brand;
 	private String model;
-	private String color;
+	private String carColor;
 
 	public int getYear() {
 		return year;
@@ -37,11 +37,11 @@ public class Car {
 	}
 
 	public String getColor() {
-		return color;
+		return carColor;
 	}
 
 	public void setColor(String color) {
-		this.color = color;
+		this.carColor = color;
 	}
 
 	// CONSTRUCTORS
